@@ -28,7 +28,7 @@ This repository contains code and resources for the Big Data Analytics course. I
    .venv\Scripts\activate
    ```
 
-3. **Install dependencies**
+3. **Install dependencies** (Optional)
 
    ```bash
    pip install -e .
