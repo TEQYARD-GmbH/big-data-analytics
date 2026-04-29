@@ -12,4 +12,9 @@ dependencies = [
     "bokeh",
     "jupyterlab",
     "ipywidgets",
+    "pyspark",
+    "findspark",
+    "scikit-learn",
+    "polars",
+    "dask[dataframe]",
 ]
